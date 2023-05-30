@@ -1,0 +1,6 @@
+pyrogram
+telegraph
+uuid
+typing
+tgcrypto
+Pillow
